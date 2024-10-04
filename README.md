@@ -18,7 +18,7 @@ all the content is out on a repo i created some time ago and you can check it ou
 you will need to do some almost-weekly exercises and will need to use HTML, css and js for 2 projects (1 per term). They primarily use content from cengage. (you will also need more bootstrap and js in the second term)
 
 ## FOP
-all the content is also out on a repo
+all the content is also out on a repo. Primarily has a total of 3 quizzes, 2 exams where you bring your laptop in and code according to the assigned test paper.
 
 ## FOC
-will have a repo of its own too.
+will have a repo of its own too. This subject is hated by a lot of students due to how hard it is.
